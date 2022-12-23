@@ -10,3 +10,5 @@ example: for height = 4, the pattern is:
  *** ***
 **** ****
 ```
+
+You can also view other Asterisk Patterns [Here](https://github.com/Annas-Furquan-Pasha?tab=repositories)
